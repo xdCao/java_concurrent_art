@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1682a6fa-df50-4a59-87f5-38adb006d7f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_concurrent/src/chapter2/Counter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_concurrent/src/chapter2/chapter2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java_concurrent/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Java_concurrent/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="1682a6fa-df50-4a59-87f5-38adb006d7f2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../Java_concurrent/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,8 +42,8 @@
       <file leaf-file-name="Counter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Java_concurrent/src/chapter2/Counter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1102">
-              <caret line="58" column="59" lean-forward="false" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="59" />
+            <state relative-caret-position="380">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#517#518#0" expanded="true" />
@@ -707,7 +703,7 @@
       <updated>1493305898572</updated>
       <workItem from="1493305901341" duration="1424000" />
       <workItem from="1493365099280" duration="11043000" />
-      <workItem from="1493571257920" duration="7077000" />
+      <workItem from="1493571257920" duration="7713000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1493306114538</created>
@@ -723,11 +719,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493392674136</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chapter 2 over">
+      <created>1493607922099</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1493607922099</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19544000" />
+    <option name="totallyTimeSpent" value="20180000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1692" height="1017" extended-state="0" />
@@ -773,7 +776,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="chapter 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 1" />
+    <MESSAGE value="chapter 2 over" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 2 over" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -966,8 +970,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Java_concurrent/src/chapter2/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="58" column="59" lean-forward="false" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="59" />
+        <state relative-caret-position="380">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#517#518#0" expanded="true" />
