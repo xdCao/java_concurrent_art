@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1682a6fa-df50-4a59-87f5-38adb006d7f2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java_concurrent/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Java_concurrent/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java_concurrent/src/chapter5/chapter5.md" afterPath="$PROJECT_DIR$/../Java_concurrent/src/chapter5/chapter5.md" />
-    </list>
+    <list default="true" id="1682a6fa-df50-4a59-87f5-38adb006d7f2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../Java_concurrent/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -891,7 +888,7 @@
       <workItem from="1493899433497" duration="7041000" />
       <workItem from="1493961283826" duration="7699000" />
       <workItem from="1494231090763" duration="7394000" />
-      <workItem from="1495030539506" duration="2187000" />
+      <workItem from="1495030539506" duration="2201000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1493306114538</created>
@@ -963,11 +960,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494259226228</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="chapter 5.4">
+      <created>1495034700490</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1495034700490</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76036000" />
+    <option name="totallyTimeSpent" value="76050000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="0" />
@@ -1020,7 +1024,8 @@
     <MESSAGE value="chapter 4 over" />
     <MESSAGE value="chapter 5.2.2" />
     <MESSAGE value="chapter 5.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 5.3" />
+    <MESSAGE value="chapter 5.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 5.4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
