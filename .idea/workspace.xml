@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1682a6fa-df50-4a59-87f5-38adb006d7f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_concurrent/src/chapter6/chapter6.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java_concurrent/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Java_concurrent/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java_concurrent/src/chapter6/chapter6.md" afterPath="$PROJECT_DIR$/../Java_concurrent/src/chapter6/chapter6.md" />
     </list>
     <ignored path="$PROJECT_DIR$/../Java_concurrent/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/../Java_concurrent/src/chapter6/chapter6.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="692">
-                <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+              <first_editor relative-caret-position="190">
+                <caret line="112" column="16" lean-forward="true" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -721,7 +721,7 @@
       <workItem from="1493899433497" duration="7041000" />
       <workItem from="1493961283826" duration="7699000" />
       <workItem from="1494231090763" duration="7394000" />
-      <workItem from="1495030539506" duration="11963000" />
+      <workItem from="1495030539506" duration="19925000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1493306114538</created>
@@ -814,11 +814,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495114711465</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="chapter 6.1">
+      <created>1495207639128</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1495207639128</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85812000" />
+    <option name="totallyTimeSpent" value="93774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1692" height="1017" extended-state="0" />
@@ -873,7 +880,8 @@
     <MESSAGE value="chapter 5.3" />
     <MESSAGE value="chapter 5.4" />
     <MESSAGE value="chapter 5 over" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 5 over" />
+    <MESSAGE value="chapter 6.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 6.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1384,8 +1392,8 @@
     <entry file="file://$PROJECT_DIR$/../Java_concurrent/src/chapter6/chapter6.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="692">
-            <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <first_editor relative-caret-position="190">
+            <caret line="112" column="16" lean-forward="true" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor />
