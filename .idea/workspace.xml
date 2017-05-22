@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1682a6fa-df50-4a59-87f5-38adb006d7f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_concurrent/src/chapter6/CountTask.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_concurrent/src/chapter7/chapter7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_concurrent/src/chapter9/chapter9.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java_concurrent/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Java_concurrent/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../Java_concurrent/out/" />
@@ -17,12 +16,38 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="chapter7.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="chapter7.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Java_concurrent/src/chapter7/chapter7.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="418">
-                <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+              <first_editor relative-caret-position="285">
+                <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chapter9.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Java_concurrent/src/chapter9/chapter9.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="646">
+                <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chapter6.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Java_concurrent/src/chapter6/chapter6.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="556">
+                <caret line="142" column="10" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="142" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -84,6 +109,7 @@
         <option value="$PROJECT_DIR$/../Java_concurrent/src/chapter6/chapter6.md" />
         <option value="$PROJECT_DIR$/../Java_concurrent/src/chapter6/CountTask.java" />
         <option value="$PROJECT_DIR$/../Java_concurrent/src/chapter7/chapter7.md" />
+        <option value="$PROJECT_DIR$/../Java_concurrent/src/chapter9/chapter9.md" />
       </list>
     </option>
   </component>
@@ -140,24 +166,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java_concurrent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java_concurrent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -714,7 +722,7 @@
       <workItem from="1493899433497" duration="7041000" />
       <workItem from="1493961283826" duration="7699000" />
       <workItem from="1494231090763" duration="7394000" />
-      <workItem from="1495030539506" duration="21474000" />
+      <workItem from="1495030539506" duration="24334000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1493306114538</created>
@@ -821,11 +829,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495374805901</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="chapter 7 over">
+      <created>1495376355939</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1495376355939</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95323000" />
+    <option name="totallyTimeSpent" value="98183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1692" height="1017" extended-state="0" />
@@ -882,7 +897,8 @@
     <MESSAGE value="chapter 5 over" />
     <MESSAGE value="chapter 6.1" />
     <MESSAGE value="chapter 6 over" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 6 over" />
+    <MESSAGE value="chapter 7 over" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 7 over" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -895,13 +911,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/LinkedTransferQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="53" column="69" lean-forward="false" selection-start-line="53" selection-start-column="69" selection-end-line="53" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Java_concurrent/src/chapter1/DeadLockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
@@ -1376,17 +1385,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Java_concurrent/src/chapter6/chapter6.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Java_concurrent/src/chapter6/CountTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="791">
@@ -1397,11 +1395,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Java_concurrent/src/chapter6/chapter6.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="556">
+            <caret line="142" column="10" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="142" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Java_concurrent/src/chapter7/chapter7.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="418">
-            <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <first_editor relative-caret-position="285">
+            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Java_concurrent/src/chapter9/chapter9.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="646">
+            <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
